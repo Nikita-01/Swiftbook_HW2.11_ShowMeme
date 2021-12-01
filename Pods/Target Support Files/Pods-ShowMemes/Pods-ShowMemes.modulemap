@@ -1,0 +1,6 @@
+framework module Pods_ShowMemes {
+  umbrella header "Pods-ShowMemes-umbrella.h"
+
+  export *
+  module * { export * }
+}
